@@ -21,7 +21,7 @@ img {
   margin: 30px auto 0;
   border-radius: 20px;
   color: #fff;
-  background-image: url('/assets/image/back-img.jpg');
+  background-image: url('https://unsplash.com/photos/green-grass-field-near-lake-under-white-clouds-and-blue-sky-during-daytime-KWTkd7mHqKE');
 }
 .weather-card .search {
     display: flex;
