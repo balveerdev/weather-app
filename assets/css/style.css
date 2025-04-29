@@ -9,6 +9,8 @@
 }
 body {
   background: #111;
+  overflow: hidden;
+  width: 100%;
 }
 img {
   max-width: 100%;
