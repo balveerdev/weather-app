@@ -21,7 +21,8 @@ img {
   margin: 30px auto 0;
   border-radius: 20px;
   color: #fff;
-  background: url("/assets/image/back-img.jpg");
+  background-image: url('/portfolio/assets/image/back-img.jpg');
+
 }
 .weather-card .search {
     display: flex;
